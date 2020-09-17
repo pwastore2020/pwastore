@@ -4,7 +4,7 @@ import './App.css';
 
 function App() {
   return (
-     <h1>Services Testing pwa store</h1>
+     <h1>Services Testing for pwa store </h1>
   );
 }
 
