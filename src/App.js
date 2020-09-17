@@ -4,8 +4,8 @@ import './App.css';
 
 function App() {
   return (
-     <h1>Services Testing</h1>
+     <h1>Services Testing pwa</h1>
   );
-}
+} 
 
 export default App;
